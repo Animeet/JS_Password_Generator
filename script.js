@@ -11,7 +11,6 @@ var generateBtn = document.querySelector("#generate");
 
 
 
-
 ////  PROMPTS THE USER NEEDS TO ANSWER BEFORE GENERATING A PASSWORD  ////
 
 function promptAnswers(){
