@@ -9,9 +9,7 @@ Uniquely, this should prompt a new password everytime.
 
 Deployed Application URL: https://animeet.github.io/JS_Password_Generator/
 
-## Installation
-
-N/A
+![JavaScript-Code-Quiz](/Week_2/Homework_Assignment/JS_Password_Generator/assets/images/Javascript_Password_Generator.png)
 
 ## Usage
 
